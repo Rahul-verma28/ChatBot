@@ -16,7 +16,7 @@ const steps = [
     trigger: '3',
   }, {
     id: '3',
-    message: " hi {previousValue}, What do you want to know?",
+    message: "Hello {previousValue}, What do you want to know?",
     trigger: 4
   },
   {
